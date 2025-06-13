@@ -4,7 +4,7 @@ public enum Genre {
     HIPHOP("Hiphop"),
     POP("Pop"),
     RAP("Rap"),
-    ROCK_AND_ROLL("Rock"),
+    ROCK("Rock"),
     TRAP("Trap"),
     REGAE("Regae"),
     SALSA("Salsa"),
@@ -13,7 +13,6 @@ public enum Genre {
     METAL("Metal"),
     JAZZ("Jazz"),
     BALADA("Balada"),
-    ROCK_ALTERNATIVO("Rock alternativo"),
     BLUES("Blues"),
     COUNTRIE("Countrie"),
     RANCHERAS("Rancheras");

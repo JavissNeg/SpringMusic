@@ -75,7 +75,6 @@ public class Principal {
                     break;
 
                 default:
-                    option = -1;
                     break;
             }
 
